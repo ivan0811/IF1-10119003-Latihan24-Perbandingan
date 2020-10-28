@@ -48,6 +48,7 @@ public class Main {
 
     public static void main(String[] args) {
 	    Main data = new Main();
-        data.startMethod();
+            data.startMethod();
+	    System.out.println("Developed by : Ivan Faathirza");
     }
 }
